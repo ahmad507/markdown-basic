@@ -1,6 +1,6 @@
 #### Penggunaan Markdown
   ---
-#### Heading
+### Heading
     Sintax dasar dari heading diawali dengan tandapagar (#).
     Ukuran dari Heading ditentukan dari,
     jumlah pagar yang memulai penggunaan heading.
@@ -19,5 +19,8 @@
     #####
     ######
 ---
+
+### Blockquote
+  > Blockquote
 
 
