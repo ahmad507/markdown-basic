@@ -23,4 +23,6 @@
 ### Blockquote
   > Blockquote
 
+    Blockquote digunakan untuk penegasan suatu artikel
+
 
